@@ -43,7 +43,17 @@ To build the Index, the following factors were chosen based on existing literatu
 
 ## Results 
 
+We have some really interesting results (**read the report for the full analysis**), but some of my personal favourites are: 
 
+1) The fact that a steep hill will likely deter any sane folk from wanting to cycle! Slope factor was given the highest weightage as a factor in our index based on a multi-factor regression analysis. 
+
+2) It is therefore not very meaningful to invest heavily in building cycling infrastructure in areas where the slope score is relatively steep such as the Core Central Region:
+
+<img src="Pictures/core_central_region.png" width="600">
+
+3) Similarly, other alternatives to cycling needs to be explored in regions where there are higher public proportion to take public transport (hence potentially more willing to switch to cycling) but affected by steep slopes: 
+
+<img src="Pictures/queenstown.png" width="600">
 
 
 ## QY's role in the group project
@@ -56,6 +66,6 @@ This was done at a time when I did not know how to code, so the most advanced sk
 - Vector data processing: Interpolation (of rainfall and temperature from weather stations in Singapore)
 
 ## And Finally...
-All good projects are done with the help of awesome-r teammates, so here is a shoutout to my fellow project mates back then @ Amanda Lim, Charis Tan, Ho Yihan and Hu Huidi!
+All good projects are done with the help of awesome-r teammates, so here is a shoutout to my fellow project mates back then @ Amanda Lim, Charis Tan, Ho Yihan and Hu Huidi! 
 
 ### References 
