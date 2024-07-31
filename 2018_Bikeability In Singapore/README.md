@@ -68,4 +68,13 @@ This was done at a time when I did not know how to code, so the most advanced sk
 ## And Finally...
 All good projects are done with the help of awesome-r teammates, so here is a shoutout to my fellow project mates back then @ Amanda Lim, Charis Tan, Ho Yihan and Hu Huidi! 
 
-### References 
+## References 
+
+- Van Dyck, D., Cerin, E., Conway, T.L., et al. (2012). Perceived Neighborhood Environmental
+Attributes Associated with Adults’ Transport-Related Walking and Cycling: Findings
+from the USA, Australia and Belgium. International Society of Behavioral Nutrition
+and Physical Activity, 9, 70. http://dx.doi.org/10.1186/1479-5868-9-70
+
+- Winters, M., Brauer, M., Setton, E.M. and Teschke, K. (2013). Mapping Bikeability: A Spatial
+Tool to Support Sustainable Travel. Environment and Planning B: Planning and Design ,
+40, 865-883. http://dx.doi.org/10.1068/b38185
