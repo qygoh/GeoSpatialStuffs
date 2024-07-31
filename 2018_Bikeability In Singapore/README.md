@@ -13,7 +13,7 @@ Bikeability was therefore the interesting topic chosen for the aspiring urban pl
 _Image generated using DALLE 3_
 
 
-We wanted to evaluate bikeability throughout Singapore following the work of Van Dyck et al. (2012) and Winters et al. (2012), which created a Bikeability Index that essentially quantifies the factors affecting bikeability. There is an added benefit of allowing comparisions of scores across regions too, which would allow us to formulate practical conclusions regarding infrastructure improvements and policy recommendations to promote cycling in Singapore. 
+We wanted to evaluate bikeability throughout Singapore following the work of Van Dyck et al. (2012) and Winters et al. (2012), which created a Bikeability Index that quantifies the factors affecting bikeability. There is an added benefit of allowing comparisions of scores across regions too, which would allow us to formulate practical conclusions regarding infrastructure improvements and policy recommendations to promote cycling in Singapore. 
 
 To build the Index, the following factors were chosen based on existing literatures' methodology and avaliability of data: 
 
@@ -25,13 +25,21 @@ To build the Index, the following factors were chosen based on existing literatu
 
 <img src="Pictures/slope_gif.gif" width="600">
 
+
 2) Manually geolocating weather stations in Singapore, then interpolate the Precipitation values to cover whole of Singapore and finally aggregating to subzones
 
 <img src="Pictures/precipitation_gif.gif" width="600">
 
+
 3) Manually geolocating weather stations in Singapore, then interpolate the temperature values to cover whole of Singapore and finally aggregating to subzones
 
-<img src="Pictures/temperature_gif.gif" width="600">
+<img src="Pictures/temp_gif.gif" width="600">
+
+
+4) Aggregated residential transport modal split, cycling population density, road density, cycling path density, cycling infrastructure density by the subzone level
+
+<img src="Pictures/socialfactors_gif.gif" width="600">
+
 
 ## Results 
 
@@ -39,7 +47,7 @@ To build the Index, the following factors were chosen based on existing literatu
 
 
 ## QY's role in the group project
-I mainly handled the raster data processing and maps calculations/visualizations for the project. 
+I mainly handled the raster data processing, maps calculations and visualizations for the project. 
 
 This was done at a time when I did not know how to code, so the most advanced skill I had was to figure out how to do raster processing on ESRI ArcGIS (because in school we were mostly taught how to deal with vector data). 
 
