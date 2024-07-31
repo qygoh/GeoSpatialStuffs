@@ -9,8 +9,15 @@ Fun fact: Back then we were seniors taking a lower level module, so we thought w
 Bikeability was therefore the interesting topic chosen for the aspiring urban planners that we were. 
 
 
-## Technical notes 
-This was done at a time where I did not know how to code yet, so the most advanced skill I had was to figure out how to do raster processing on ESRI ArcGIS. 
+
+## QY's role in the group project
+I mainly handled the raster data processing and maps calculations/visualizations for the project. 
+
+This was done at a time where I did not know how to code yet, so the most advanced skill I had was to figure out how to do raster processing on ESRI ArcGIS (because in school we were mostly taught how to deal with vector data). 
+
+## Key technical skills
+Raster data processing: Slope calculations from Digital Elevation Terrain Raster data, Zonal Statistics
+Vector data processing: Interpolation (of rainfall and temperature from weather stations in Singapore) 
 
 ## And Finally...
 All good projects are done with the help of awesome-r teammates, so here is a shoutout to my fellow project mates back then @ Amanda Lim, Charis Tan, Ho Yihan and Hu Huidi. 
