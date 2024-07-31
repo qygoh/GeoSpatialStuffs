@@ -13,13 +13,23 @@ Bikeability was therefore the interesting topic chosen for the aspiring urban pl
 _Image generated using DALLE 3_
 
 
-We wanted to evaluate bikeability throughout Singapore following the work of Van Dyck et al. (2012) and Winters et al. (2012), which created a Bikeability Index that essentially quantifies the factors affecting bikeability. There is an added benefit of allowing comparisions of scores across regions too, which would allow us to formulate practical conclusions regarding infrastructure improvements, policy recommendations to promote cycling in Singapore. 
+We wanted to evaluate bikeability throughout Singapore following the work of Van Dyck et al. (2012) and Winters et al. (2012), which created a Bikeability Index that essentially quantifies the factors affecting bikeability. There is an added benefit of allowing comparisions of scores across regions too, which would allow us to formulate practical conclusions regarding infrastructure improvements and policy recommendations to promote cycling in Singapore. 
 
 To build the Index, the following factors were chosen based on existing literatures' methodology and avaliability of data: 
 
 <img src="Pictures/index_factors.png" width="600">
 
+## Technical Data Processing 
+
+1) Converted Digital Elevation Terrain Elevation data to Slope map of Singapore
+
+<img src="Pictures/slope_gif.gif" width="600">
+
+2) 
+
+
 ## Results 
+
 
 
 
