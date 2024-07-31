@@ -47,11 +47,11 @@ We have some really interesting results (**read the report for the full analysis
 
 1) The fact that a steep hill will likely deter any sane folk from wanting to cycle! Slope factor was given the highest weightage as a factor in our index based on a multi-factor regression analysis. 
 
-2) It is therefore not very meaningful to invest heavily in building cycling infrastructure in areas where the slope score is relatively steep such as the Core Central Region:
+2) It is therefore not very meaningful to invest heavily in building cycling infrastructure in areas where the slope score is relatively steep such as the Core Central Region (except downtown core):
 
 <img src="Pictures/core_central_region.png" width="600">
 
-3) Similarly, other alternatives to cycling needs to be explored in regions where there are higher public proportion to take public transport (hence potentially more willing to switch to cycling) but affected by steep slopes: 
+3) Similarly, other alternatives to cycling needs to be explored in regions where there are higher proportion of the public who takes public transportation (hence potentially more willing to switch to cycling) but affected by steep slopes: 
 
 <img src="Pictures/queenstown.png" width="600">
 
