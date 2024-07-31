@@ -8,7 +8,7 @@ Fun fact: Back then we were seniors taking a lower level module, so we thought w
 
 Bikeability was therefore the interesting topic chosen for the aspiring urban planners that we were. 
 
-<img src="dalle_bikeability.png" width="600">
+<img src="Pictures/dalle_bikeability.png" width="600">
 
 _Image generated using DALLE 3_
 
