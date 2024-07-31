@@ -17,7 +17,7 @@ We wanted to evaluate bikeability throughout Singapore following the work of Van
 
 Quantificable factors are needed to build the Index, and the following was chosen based on existing literatures and avaliability of data: 
 
-<img src="Pictures/index_factors.png" width="300">
+<img src="Pictures/index_factors.png" width="500">
 
 
 ## QY's role in the group project
