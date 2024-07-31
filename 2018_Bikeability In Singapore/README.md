@@ -15,7 +15,7 @@ _Image generated using DALLE 3_
 
 We wanted to evaluate bikeability throughout Singapore following the work of Van Dyck et al. (2012) and Winters et al. (2012), which created a Bikeability Index that essentially quantifies the factors affecting bikeability. Having a Bikeability Index allows comparisions of scores across regions too. 
 
-Quantificable factors are needed to build the Index, and the following was chosen based on existing literatures and avaliability of data: 
+Quantificable factors are needed to build the Index, and the following factors were chosen based on existing literatures' methodology and avaliability of data: 
 
 <img src="Pictures/index_factors.png" width="500">
 
