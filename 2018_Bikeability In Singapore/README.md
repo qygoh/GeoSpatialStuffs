@@ -25,8 +25,13 @@ To build the Index, the following factors were chosen based on existing literatu
 
 <img src="Pictures/slope_gif.gif" width="600">
 
-2) 
+2) Manually geolocating weather stations in Singapore, then interpolate the Precipitation values to cover whole of Singapore and finally aggregating to subzones
 
+<img src="Pictures/precipitation_gif.gif" width="600">
+
+3) Manually geolocating weather stations in Singapore, then interpolate the temperature values to cover whole of Singapore and finally aggregating to subzones
+
+<img src="Pictures/temperature_gif.gif" width="600">
 
 ## Results 
 
