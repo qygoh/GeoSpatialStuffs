@@ -21,7 +21,7 @@ To build the Index, the following factors were chosen based on existing literatu
 
 ## Technical Data Processing 
 
-1) Converted Digital Elevation Terrain Elevation data to Slope map of Singapore
+1) Converted Digital Elevation Terrain Elevation data to Slope map of Singapore, then aggregated by subzones in Singapore
 
 <img src="Pictures/slope_gif.gif" width="600">
 
