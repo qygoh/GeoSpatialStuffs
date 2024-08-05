@@ -4,27 +4,25 @@ For course GE3216: Applications of GIS & Remote Sensing. Completed Year: 2016
 
 ## Topic: Dengue in Singapore
 
-insert
+We were tasked to work on any topic that is of interest to us, but some form of raster processing should be featured as part of the project. 
+
 
 ## Technical Data Processing
 
-insert
+to be inserted
 
 ## Results 
 
-insert
+to be inserted 
 
-## QY's role in the group project 
+## QY's role in the group project & Special shoutouts to teammates 
 
-insert
+to be inserted 
+
 
 ## Key technical skills 
 
-insert
-
-## And Finally... 
-
-insert
+to be inserted 
 
 
 
