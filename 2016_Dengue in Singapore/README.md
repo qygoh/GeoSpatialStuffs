@@ -8,7 +8,7 @@ We were tasked to work on any topic that is of interest to us, but some form of 
 
 In Sunny Singapore, the National Environmental Agency's banners for dengue vilgilance and prevent accumulation of still water in living enviornment is a common sight:
 
-![NEA Dengue Prevention Advert](https://www.myheart.org.sg/wp-content/uploads/2020/12/block_dengue_nea-1024x683.jpg](https://scontent-nrt1-1.xx.fbcdn.net/v/t39.30808-6/275562184_286520993622323_6768160561290823987_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=4ZI3GvsDWR0Q7kNvgHvyQ91&_nc_ht=scontent-nrt1-1.xx&oh=00_AYCiOoP4Kf6A0nnsgEMsMIa4fjUuAfRjnObDVm_Bw9TOfw&oe=66B7DC4B)
+![NEA Dengue Prevention Advert](https://static1.straitstimes.com.sg/s3fspublic/styles/large30x20/public/articles/2024/02/07/aidengue070224.JPG))
 
 This inspired our research topic of identifying the factors that contributes significantly to the number of dengue cases in Singapore. 
 
