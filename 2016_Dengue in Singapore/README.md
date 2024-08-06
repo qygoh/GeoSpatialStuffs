@@ -8,7 +8,7 @@ We were tasked to work on any topic that is of interest to us, but some form of 
 
 In Sunny Singapore, the National Environmental Agency's banners for dengue vilgilance and prevent accumulation of still water in living enviornment is a common sight:
 
-![NEA Dengue Prevention Advert](https://static1.straitstimes.com.sg/s3fspublic/styles/large30x20/public/articles/2024/02/07/aidengue070224.JPG))
+![NEA Dengue Prevention Advert](https://www.cgs.gov.sg/images/Block%20Dengue/Resources/h284185_nea_national_dengue_a4sz.jpg)
 
 This inspired our research topic of identifying the factors that contributes significantly to the number of dengue cases in Singapore. 
 
