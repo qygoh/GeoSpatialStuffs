@@ -6,11 +6,11 @@ For course GE3216: Applications of GIS & Remote Sensing. Completed Year: 2016
 
 We were tasked to work on any topic that is of interest to us, but some form of raster processing should be featured as part of the project. Eventually, we came out with a game plan that did exactly that, using Dengue in Singapore as an example. 
 
-In Sunny Singapore, the National Environmental Agency's banners for dengue vilgilance and prevent accumulation of still water in living enviornment is a common sight:
+In Sunny Singapore, the National Environmental Agency's banners for dengue vilgilance and prevention is a common sight:
 
 <img src='https://www.cgs.gov.sg/images/Block%20Dengue/Resources/h284185_nea_national_dengue_a4sz.jpg' width='600'>
 
-This inspired our research topic of identifying the factors that contributes significantly to the number of dengue cases in Singapore. 
+In turn, we wanted to explore identifying the factors that contributes significantly to the number of dengue cases in Singapore. 
 
 
 ## Technical Data Processing
