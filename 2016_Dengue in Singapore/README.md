@@ -21,7 +21,10 @@ In turn, we wanted to explore what the factors actually affects the number of de
 
 ## Technical Data Processing
 
-to be inserted
+### Concept of Modifiable Areal Unit Problem (MAUP)
+
+
+
 
 ## Results 
 
