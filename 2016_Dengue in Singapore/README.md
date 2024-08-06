@@ -10,7 +10,12 @@ In Sunny Singapore, the National Environmental Agency's banners for dengue vilgi
 
 <img src='https://www.cgs.gov.sg/images/Block%20Dengue/Resources/h284185_nea_national_dengue_a4sz.jpg' width='600'>
 
-In turn, we wanted to explore identifying the factors that contributes significantly to the number of dengue cases in Singapore. 
+In turn, we wanted to explore identifying the factors that contributes significantly to the number of dengue cases in Singapore. Existing literature back then found high temperature, rainy seasons, population density, etc to have a relationship to the number of dengue cases for the countries they were studying. We therefore chose to study if the following factors had any relationships to the number of dengue cases in Singapore: 
+
+- Proximity to Vegetation and Waterbodies
+- Temperature
+- Rainfall
+- Distance to Construction Sites 
 
 
 ## Technical Data Processing
