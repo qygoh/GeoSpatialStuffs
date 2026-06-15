@@ -18,26 +18,4 @@ In turn, we wanted to explore what the factors actually affects the number of de
 - Rainfall
 - Distance to Construction Sites 
 
-
-## Technical Data Processing
-
-### Concept of Modifiable Areal Unit Problem (MAUP)
-
-to be inserted
-
-
-## Results 
-
-to be inserted 
-
-## QY's role in the group project & Special shoutouts to teammates 
-
-to be inserted 
-
-
-## Key technical skills 
-
-to be inserted 
-
-
-
+<to be updated further>
