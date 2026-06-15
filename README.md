@@ -1,2 +1,2 @@
 # GeoSpatialStuffs
-All my past Geospatial Projects, Big and Small 
+All my Geospatial Projects, Big and Small 
